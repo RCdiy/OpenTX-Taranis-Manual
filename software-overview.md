@@ -1,8 +1,8 @@
-# Software overview
+# OpenTX Firmware
 
-The following sections cover the Taranis operational menus.
+The following sections cover the OpenTX operational menus.
 
-You may want to start charging your battery so you can put what you learn in these sections immediately to practice!
+To get the OpenTX firmware please read the Companion section.
 
 
 
